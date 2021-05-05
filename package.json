@@ -1,0 +1,23 @@
+{
+  "name": "CLI-nodejs",
+  "version": "1.0.0",
+  "description": "Test repository to learn how to build a Command Line Interface in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phillChoi/CLI-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phillChoi/CLI-nodejs/issues"
+  },
+  "homepage": "https://github.com/phillChoi/CLI-nodejs#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
